@@ -1,0 +1,41 @@
+.home-title {
+    text-align: center;
+    /*margin: 3rem 0;*/
+}
+
+.api-image {
+    margin: 4px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.direction-collumn {
+    flex-direction: column;
+}
+
+.direction-row {
+    flex-direction: row;
+}
+
+.text-field {
+    margin: 4rem 0;
+    /*color: white;*/
+}
+
+.m-4 {
+    margin: 4px;
+}
+
+.color-input {
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.justify-center {
+    display: flex;
+    justify-content: center;
+}
