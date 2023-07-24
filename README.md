@@ -12,7 +12,7 @@ Para a execução da aplicação, é necessário seguir os seguintes passos:
 
 Para pegar a imagem mais atualizada, rodar o seguinte comando:
 ```sh
-docker push gsfelix99/placeholder_app:latest
+docker pull gsfelix99/placeholder_app:latest
 ```
 
 Depois de concluído, execute a imagem do Docker e mapeie a porta do container com a do host. Neste exemplo, simplesmente mapeamos a porta 3000 do host para a 3000 do Docker (ou qualquer porta exposta no Dockerfile):
